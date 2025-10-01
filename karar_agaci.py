@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Karar Ağacı (Decision Tree) Algoritması Uygulaması
 Makine Öğrenmesi Dersi - Iris ve Diabetes Veri Setleri ile Karar Ağacı Uygulamaları
@@ -183,6 +181,7 @@ plt.show()
 print("\nSonuç analizi:")
 print("- Max Depth = 2: Daha basit model, az aşırı öğrenme")
 print("- Max Depth = 15: Daha karmaşık model, aşırı öğrenme riski")
+
 
 
 
